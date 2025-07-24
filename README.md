@@ -162,4 +162,4 @@ cd /usr/share/kibana/bin/
 - >>in my case the verification code is-- 369 294
 
 - >>after that this will ask for username & passwd of elastic, So Enter...from step 4
-thats it:-)>>
+thats it:-)
