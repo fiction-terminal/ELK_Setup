@@ -148,7 +148,7 @@ cd /usr/share/elasticsearch/bin/
 ```
 sudo ./elasticsearch-create-enrollment-token --scope kibana
 ```
-- >>in my case this will something like-- eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiMTkyLjE2OC4zMy4xNDM6OTIwMCJdLCJmZ3IiOiI5YmU5ZGVhZjExOTU0ZDJhNDYzNzgxMmVkYjgyODRmOWNlNDQxNTNjODU5ODMzYzkyMjMxNWRlMDg0OGExMzZjIiwia2V5IjoiSUxwTVBKZ0JsaUxoUEpnR2t4Ulg6aUhpbDM4Ul9KVmwtdFEwcTRla1FyQSJ9>>
+- >>in my case this will something like-- eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiMTkyLjE2OC4zMy4xNDM6OTIwMCJdLCJmZ3IiOiI5YmU5ZGVhZjExOTU0ZDJhNDYzNzgxMmVkYjgyODRmOWNlNDQxNTNjODU5ODMzYzkyMjMxNWRlMDg0OGExMzZjIiwia2V5IjoiSUxwTVBKZ0JsaUxoUEpnR2t4Ulg6aUhpbDM4Ul9KVmwtdFEwcTRla1FyQSJ9
 
 >>after enter this code into kibana this will ask for verification
 
